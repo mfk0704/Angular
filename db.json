@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "2",
+      "title": "niuwnhr",
+      "author": "kmituiujnbkjg"
+    },
+    {
+      "id": "3",
+      "title": "Thor",
+      "author": "Marvel Studios"
+    },
+    {
+      "id": "4",
+      "title": "Avengers",
+      "author": "Marvel Studios"
+    },
+    {
+      "id": "5",
+      "title": "Batman",
+      "author": "DC"
+    },
+    {
+      "id": "8",
+      "title": "Dilwale Dulhaniya Lejayenge ",
+      "author": "Dharma Productions"
+    },
+    {
+      "id": "9",
+      "title": "Kick",
+      "author": "Salman Khan Films"
+    },
+    {
+      "id": "7",
+      "title": "Radhe",
+      "author": "Salman Khan Films"
+    },
+    {
+      "id": "654",
+      "title": "Pathaan",
+      "author": "Yash Raj Films"
+    },
+    {
+      "id": "252",
+      "title": "Fan",
+      "author": "SRK Films"
+    },
+    {
+      "id": "468",
+      "title": "Jab We Met",
+      "author": "Ayaan Mukherji"
+    },
+    {
+      "id": "894",
+      "title": "The Office",
+      "author": "Usa"
+    },
+    {
+      "id": "5468",
+      "title": "Meeting",
+      "author": "Francisco"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
